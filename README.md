@@ -7,9 +7,10 @@ Below is top view of the Hippo2.
 
 The bottom view likes this.
 
-![hippo2 bottom view]()
+![hippo2 bottom view](https://github.com/ndGarage/hippo2/blob/main/hippo2-bottom.png)
 
 To solder the SK6812Mini-E, the first thing is to identify its pin1. The following is the top view of SK6812Mini-E.
 
-![SK6812Mini-E Top View]()
+![SK6812Mini-E Top View](https://github.com/ndGarage/hippo2/blob/main/sk6812mini-E_topview.png)
 
+On the PCB, the pin1 of SK6812Mini-E footprint is marked by a white dot.
